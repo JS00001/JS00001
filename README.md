@@ -1,16 +1,15 @@
-### Hi there 👋
+![JackS0001's github stats](https://github-readme-stats.vercel.app/api?username=JackS0001&show_icons=true&theme=midnight-purple)
 
-<!--
-**JS00001/JS00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+### My Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.icons8.com/color/24/000000/javascript.png"/> **4 Years** of Javascript and NodeJS Experience
+
+<img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png"/> **6 Months** of Java Experience
+
+<img src="https://img.icons8.com/nolan/24/react-native.png"/> **4 Months** ReactJS Experience
+
+<img src="https://img.icons8.com/color/24/000000/mongodb.png"/> **4 Months** MongoDB Experience
+
+<img src="https://img.icons8.com/flat_round/24/000000/question-mark.png"/> Ask Me Questions About **Javascript**

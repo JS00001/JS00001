@@ -1,4 +1,4 @@
-![JS00001's github stats](https://github-readme-stats.vercel.app/api?username=JS00001show_icons=true&theme=midnight-purple)
+![JS00001's github stats](https://github-readme-stats.vercel.app/api?username=JS00001&show_icons=true&theme=midnight-purple)
 
 <hr>
 

@@ -1,5 +1,7 @@
+### My Statistics 
 ![JS00001's github stats](https://github-readme-stats.vercel.app/api?username=JS00001&show_icons=true&theme=prussian)
-<br>
+<br><hr>
+### Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JS00001)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>

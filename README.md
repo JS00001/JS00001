@@ -1,4 +1,5 @@
-![JS00001's github stats](https://github-readme-stats.vercel.app/api?username=JS00001&show_icons=true&theme=midnight-purple)
+![JS00001's github stats](https://github-readme-stats.vercel.app/api?username=JS00001&show_icons=true&theme=prussian)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JS00001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 

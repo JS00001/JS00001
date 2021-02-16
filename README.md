@@ -10,6 +10,8 @@
 
 <img src="https://img.icons8.com/color/24/000000/javascript.png"/> **4 Years** of Javascript and NodeJS Experience
 
+**6 Months** of Python Experience
+
 <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png"/> **6 Months** of Java Experience
 
 <img src="https://img.icons8.com/nolan/24/react-native.png"/> **5 Months** ReactJS & ExpressJS Experience

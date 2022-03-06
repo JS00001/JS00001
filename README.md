@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**JS00001/JS00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 My Statistics 
+![JS00001's github stats](https://github-readme-stats.vercel.app/api?username=JS00001&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
+### 💡 Top Languages & Technologies
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JS00001&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
 
-Here are some ideas to get you started:
+### 🏆 Github Awards
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=JS00001&margin-w=25&margin-h=25&column=7&theme=darkhub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  My Interests and Skill Levels
+
+<img src="https://img.icons8.com/color/24/000000/javascript.png"/> `9/10` Javascript & NodeJS Proficiency
+
+<img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png"/> `4/10` Basic Java Proficiency
+
+<img src="https://img.icons8.com/color/24/000000/python.png"/> `5/10` Python Proficiency
+
+<img src="https://img.icons8.com/nolan/24/react-native.png"/> `7/10` ReactJS Proficiency
+
+<img src="https://img.icons8.com/nolan/24/react-native.png"/> `9/10` NodeJS Backend and ExpressJS Experience
+
+<img src="https://img.icons8.com/color/24/000000/apple-phone.png"/> `6/10` React Native Proficiency
+
+<img src="https://img.icons8.com/color/24/000000/mongodb.png"/> `7/10` MongooseJS and MongoDB Experience
+

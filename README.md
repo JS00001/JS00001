@@ -11,15 +11,17 @@
 
 <img src="https://img.icons8.com/color/24/000000/javascript.png"/> `9/10` Javascript & NodeJS Proficiency
 
-<img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png"/> `4/10` Basic Java Proficiency
-
-<img src="https://img.icons8.com/color/24/000000/python.png"/> `5/10` Python Proficiency
-
-<img src="https://img.icons8.com/nolan/24/react-native.png"/> `7/10` ReactJS Proficiency
-
 <img src="https://img.icons8.com/nolan/24/react-native.png"/> `9/10` NodeJS Backend and ExpressJS Experience
+
+<img src="https://img.icons8.com/nolan/24/react-native.png"/> `8/10` ReactJS Proficiency
+
+<img src="https://img.icons8.com/color/24/000000/mongodb.png"/> `7/10` MongooseJS and MongoDB Experience
 
 <img src="https://img.icons8.com/color/24/000000/apple-phone.png"/> `6/10` React Native Proficiency
 
-<img src="https://img.icons8.com/color/24/000000/mongodb.png"/> `7/10` MongooseJS and MongoDB Experience
+<img src="https://img.icons8.com/color/24/000000/python.png"/> `5/10` Python Proficiency
+
+<img src="https://img.icons8.com/color/24/000000/golang.png"/> `4/10` Basic GoLang Proficiency
+
+<img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png"/> `4/10` Basic Java Proficiency
 

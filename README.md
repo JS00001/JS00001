@@ -13,9 +13,9 @@
 
 <img src="https://img.icons8.com/nolan/24/react-native.png"/> `10/10` ReactJS Proficiency
 
-<img src="https://img.icons8.com/color/24/000000/javascript.png"/> `9/10` Javascript & NodeJS Proficiency
+<img src="https://img.icons8.com/color/24/000000/javascript.png"/> `10/10` Javascript & Typescript Proficiency
 
-<img src="https://img.icons8.com/nolan/24/react-native.png"/> `9/10` NodeJS Backend and ExpressJS Experience
+<img src="https://img.icons8.com/nolan/24/react-native.png"/> `9/10` Node.js Experience (Backend)
 
 <img src="https://img.icons8.com/color/24/000000/apple-phone.png"/> `9/10` React Native Proficiency
 
@@ -24,8 +24,6 @@
 <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png"/> `5/10` Java Proficiency
 
 <img src="https://img.icons8.com/color/24/000000/python.png"/> `5/10` Python Proficiency
-
-<img src="https://img.icons8.com/color/24/000000/golang.png"/> `4/10` Basic GoLang Proficiency
 
 
 

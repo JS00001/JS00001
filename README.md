@@ -3,6 +3,8 @@
 
 ...and I've loved programming since I was 14. I enjoy the entire development lifecycle: Frontend, Backend, Devops, Design, etc. Below are some of my favorite projects!
 
+[[*Latest*] Hog Lite](https://github.com/JS00001/hog-lite) - 🦔 PostHog mobile client for the masses! Fully open source. Checkout the [frontend](https://github.com/JS00001/hog-lite) repository!
+
 [[*Latest*] Wallo Finance](https://github.com/JS00001/wallo-mobile) - 💸 Financial software for absolutely everybody. Fully open source. Checkout the [frontend](https://github.com/JS00001/wallo-api) and [backend](https://github.com/JS00001/wallo-backend) repositories!
 
 [CampusRush](https://campusrush.app) - 🏫 Recruitment software for greek organizations. Check out the [web version](https://app.campusrush.app), [mobile app](https://apps.apple.com/us/app/campus-rush-recruitment/id6462791621), and more!

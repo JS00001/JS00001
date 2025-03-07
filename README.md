@@ -1,7 +1,7 @@
 
 # 👋 Hey, I'm Jack...
 
-...and I've loved programming since I was 14. I enjoy the entire development lifecycle: Frontend, Backend, Devops, Design, etc. Below are some of my favorite projects!
+I'm currently a Full-Stack SWE at [Expensify!](https://expensify.com) I enjoy the entire development lifecycle: Frontend, Backend, Devops, Design, etc. Below are some of my favorite projects!
 
 [[*Latest*] Hog Lite](https://github.com/JS00001/hog-lite) - 🦔 PostHog mobile client for the masses! Fully open source. Checkout the [frontend](https://github.com/JS00001/hog-lite) repository!
 

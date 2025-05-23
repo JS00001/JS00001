@@ -5,8 +5,6 @@ I'm currently a Full-Stack SWE at [Expensify!](https://expensify.com) I enjoy th
 
 [[*Latest*] Hog Lite](https://github.com/JS00001/hog-lite) - 🦔 PostHog mobile client for the masses! Fully open source. Checkout the [frontend](https://github.com/JS00001/hog-lite) repository!
 
-[[*Latest*] Wallo Finance](https://github.com/JS00001/wallo-mobile) - 💸 Financial software for absolutely everybody. Fully open source. Checkout the [frontend](https://github.com/JS00001/wallo-api) and [backend](https://github.com/JS00001/wallo-backend) repositories!
-
 [CampusRush](https://campusrush.app) - 🏫 Recruitment software for greek organizations. Check out the [web version](https://app.campusrush.app), [mobile app](https://apps.apple.com/us/app/campus-rush-recruitment/id6462791621), and more!
 
 [Trackwyse](https://github.com/Trackwyse) - 📍 Software to recover lost items. Fully open-source, check out the [repos](https://github.com/trackwyse).

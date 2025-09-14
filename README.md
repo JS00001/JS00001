@@ -7,7 +7,7 @@ I'm currently a Full-Stack SWE at [Expensify!](https://expensify.com) I enjoy th
 
 [libSQLx](https://github.com/JS00001/libsqlx) - 🏖️ A lightweight wrapper around `@libsql/client` that adds developer-friendly features like smarter error handling, automatic query logging, SQL utilities, and more!
 
-[CampusStudy](https://campusstudy.app) - 🏫 Study software for greek organizations. Check out the [web version](https://dashboard.campusstudy.app), [mobile app](https://apps.apple.com/us/app/campus-rush-recruitment/id646279162'), and more!
+[CampusStudy](https://campusstudy.app) - 🏫 Study software for greek organizations. Check out the [web version](https://dashboard.campusstudy.app), [mobile app](https://apps.apple.com/us/app/campusstudy-greek-study-helper/id6746734543), and more!
 
 [CampusRush](https://campusrush.app) - 🏫 Recruitment software for greek organizations. Check out the [web version](https://app.campusrush.app), [mobile app](https://apps.apple.com/us/app/campus-rush-recruitment/id6462791621), and more!
 

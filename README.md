@@ -5,16 +5,7 @@ I'm currently a Full-Stack SWE at [Expensify!](https://expensify.com) I enjoy th
 
 [Hog Lite](https://github.com/JS00001/hog-lite) - 🦔 PostHog mobile app for the masses! Fully open source. Checkout the [react native](https://github.com/JS00001/hog-lite) repository!
 
-[libSQLx](https://github.com/JS00001/libsqlx) - 🏖️ A lightweight wrapper around `@libsql/client` that adds developer-friendly features like smarter error handling, automatic query logging, SQL utilities, and more!
-
 [CampusStudy](https://campusstudy.app) - 🏫 Study software for greek organizations. Check out the [web version](https://dashboard.campusstudy.app), [mobile app](https://apps.apple.com/us/app/campusstudy-greek-study-helper/id6746734543), and more!
 
-[Apple Maps Server SDK](https://github.com/JS00001/apple-maps-server-sdk) - 🗺️ Simple JS/TS package to easily use Apple's Maps SDK. 
-
-### Statistics
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JS00001&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JS00001&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JS00001&theme=algolia)
 
 
